@@ -9,7 +9,5 @@ Dataset Download link: https://www.kaggle.com/datasets/adityajn105/flickr8k/down
 
 3. Building a Encoder-Decoder model using Embeddings , LSTM and Dense layer for training purposes and generate caption using the trained model to given image input.
 
-
-
---> You can train the model with data or just use the best_model.h5 pretraind model for prediction.
+ You can train the model with data or just use the best_model.h5 pretraind model for prediction.
 
